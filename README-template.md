@@ -45,7 +45,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/todo-app-using-reactjs-and-react-beautiful-dnd-library-JTOuJQmB9]
 - Live Site URL: [https://auro-93.github.io/React-Todo-App/]
 
 ## My process
