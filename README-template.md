@@ -46,7 +46,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://auro-93.github.io/React-Todo-App/)
+- Live Site URL: [https://auro-93.github.io/React-Todo-App/]
 
 ## My process
 
