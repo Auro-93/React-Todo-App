@@ -1,0 +1,49 @@
+.todo-form{
+    width: 100%;
+    padding: 0.8rem;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;        
+}
+
+.input-circle{
+    width: 1.4rem;
+    padding: 0.6rem;
+    height: 1.4rem;
+    border-radius: 50%;
+    border: 1.5px solid;
+    margin-right: 0.6rem;
+    margin-left: 0.2rem;
+}
+
+.todo-input{
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: #bdbcc2ee;
+    caret-color: #4D73C3;
+}
+
+.todo-input::placeholder{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 0.7rem;
+}
+
+@media screen and (min-width: 768px){
+    .todo-input::placeholder{
+        font-size: 0.8rem;
+    }
+
+}
+
+.dark-placeholder::placeholder{
+    color: #5D5F76;
+}
+
+.light-placeholder::placeholder{
+    color: #bcbbc0;
+}
+
+
