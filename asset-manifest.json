@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Todo-App/static/css/main.a7976d79.chunk.css",
+    "main.js": "/React-Todo-App/static/js/main.bfe2e39b.chunk.js",
+    "main.js.map": "/React-Todo-App/static/js/main.bfe2e39b.chunk.js.map",
+    "runtime-main.js": "/React-Todo-App/static/js/runtime-main.de047b75.js",
+    "runtime-main.js.map": "/React-Todo-App/static/js/runtime-main.de047b75.js.map",
+    "static/js/2.fcce782b.chunk.js": "/React-Todo-App/static/js/2.fcce782b.chunk.js",
+    "static/js/2.fcce782b.chunk.js.map": "/React-Todo-App/static/js/2.fcce782b.chunk.js.map",
+    "index.html": "/React-Todo-App/index.html",
+    "static/css/main.a7976d79.chunk.css.map": "/React-Todo-App/static/css/main.a7976d79.chunk.css.map",
+    "static/js/2.fcce782b.chunk.js.LICENSE.txt": "/React-Todo-App/static/js/2.fcce782b.chunk.js.LICENSE.txt",
+    "static/media/bg-desktop-dark.73e47dbb.jpg": "/React-Todo-App/static/media/bg-desktop-dark.73e47dbb.jpg",
+    "static/media/bg-desktop-light.3508d620.jpg": "/React-Todo-App/static/media/bg-desktop-light.3508d620.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de047b75.js",
+    "static/js/2.fcce782b.chunk.js",
+    "static/css/main.a7976d79.chunk.css",
+    "static/js/main.bfe2e39b.chunk.js"
+  ]
+}
